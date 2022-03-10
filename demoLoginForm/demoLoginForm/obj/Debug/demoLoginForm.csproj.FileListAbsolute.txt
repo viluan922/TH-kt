@@ -1,0 +1,10 @@
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\bin\Debug\demoLoginForm.exe.config
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\bin\Debug\demoLoginForm.exe
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\bin\Debug\demoLoginForm.pdb
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\obj\Debug\demoLoginForm.csprojAssemblyReference.cache
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\obj\Debug\demoLoginForm.Form1.resources
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\obj\Debug\demoLoginForm.Properties.Resources.resources
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\obj\Debug\demoLoginForm.csproj.GenerateResource.cache
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\obj\Debug\demoLoginForm.csproj.CoreCompileInputs.cache
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\obj\Debug\demoLoginForm.exe
+E:\IT\New folder\TH-kt\demoLoginForm\demoLoginForm\obj\Debug\demoLoginForm.pdb
